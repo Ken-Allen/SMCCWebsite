@@ -1,0 +1,35 @@
+
+body{
+    background-image: url('img/st-michael.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 70px;
+}
+.nav-link:hover{
+    color: #fcc213 !important;
+}
+
+main h1{   
+    padding-bottom: 20px;
+    color: #fcc213;
+}
+
+article{
+    background-color: #120d4e;
+    padding: 15px;
+    margin: 5px;
+}
+
+#course h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#course h4{
+    color: #fcc213;
+    margin-top: 10px;
+}
+#service h4{
+    color: #fcc213;
+}
